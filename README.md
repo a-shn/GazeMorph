@@ -14,16 +14,16 @@ pip install -e .
 
 | name | base channels | Hugging Face |
 | --- | ---: | --- |
-| small | 16 | `qskxx/gazemorph_small` |
-| medium | 32 | `qskxx/gazemorph_medium` |
-| large | 48 | `qskxx/gazemorph_large` |
+| small | 16 | https://huggingface.co/qskxx/gazemorph_small |
+| medium | 32 | https://huggingface.co/qskxx/gazemorph_medium |
+| large | 48 | https://huggingface.co/qskxx/gazemorph_large |
 
 ## Dataset
 
 The augmented ZuCo dataset archive is hosted at:
 
 ```text
-qskxx/gazemorph_zuco_augmented
+https://huggingface.co/datasets/qskxx/gazemorph_zuco_augmented
 ```
 
 ## Download Artifacts
