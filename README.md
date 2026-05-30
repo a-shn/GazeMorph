@@ -51,7 +51,7 @@ import torch
 from gazemorph import load_model
 
 model = load_model("small")
-x = torch.zeros(1, 2, 24, 24, 24)
+x = torch.zeros(1, 2, 200, 152, 104)
 with torch.inference_mode():
     flow = model(x)
 ```
