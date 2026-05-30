@@ -1,6 +1,8 @@
-# GazeMorph
+# [WIP] GazeMorph
 
 Code for GazeMorph, a 3D UNet-style model for fixation-to-content alignment in eye-tracking data.
+
+Paper link: https://dl.acm.org/doi/10.1145/3806035
 
 ## Install
 
