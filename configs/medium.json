@@ -1,0 +1,7 @@
+{
+  "name": "medium",
+  "base": 32,
+  "max_disp": 24.0,
+  "repo_id": "qskxx/gazemorph_medium",
+  "filename": "gmorph_medium.pt"
+}

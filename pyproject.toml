@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gazemorph"
+version = "0.1.0"
+description = "GazeMorph model code and pretrained checkpoint loaders"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Almaz Shangareev"},
+  {name = "Sergey Stupnikov"}
+]
+dependencies = [
+  "huggingface_hub>=0.20",
+  "torch>=2.0",
+  "tqdm>=4.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

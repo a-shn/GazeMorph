@@ -1,0 +1,7 @@
+{
+  "name": "large",
+  "base": 48,
+  "max_disp": 24.0,
+  "repo_id": "qskxx/gazemorph_large",
+  "filename": "gmorph_large.pt"
+}
